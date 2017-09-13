@@ -1,0 +1,2 @@
+# Hello-CC
+Training course
